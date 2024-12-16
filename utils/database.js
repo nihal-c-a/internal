@@ -1,4 +1,4 @@
-import { prisma } from './prismaClient'; // Replace this with your actual Prisma setup if you're using it
+// import { prisma } from './prismaClient'; // Replace this with your actual Prisma setup if you're using it
 
 // Fetch all payments from the database
 export async function fetchAllPayments() {
